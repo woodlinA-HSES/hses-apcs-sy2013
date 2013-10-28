@@ -1,0 +1,23 @@
+Instructions for Chapter 3 Lab Submissions
+
+Assignment:
+
+	Do BOTH of P4.7 (Converter) and P4.8 (Square)
+	Do ONE of the following:  P4.3 (IceCreamCone) or P4.6 (DataSet)
+	Do ONE of the following:
+		Any lab of your choice from Chapter 4 OR
+		A GUI interface on one of the labs you did for Chapter 4.
+		
+Submission Requirements
+
+	README.TXT file:  containing your name, the date, the list of labs (with 
+	filenames) 	you are submitting,	and any notes you need to include 
+	(challenges, errors, collaborations).
+	
+	For P4.7:  Converter.java
+	For P4.8:  Square.java
+	For P4.3:  IceCreamCone.java
+	For P4.6:  DataSet.java
+	For choice labs:  the java source code file(s) for those labs.
+	
+	You NEVER submit any *.class files (they are included in the .gitignore anyway).
